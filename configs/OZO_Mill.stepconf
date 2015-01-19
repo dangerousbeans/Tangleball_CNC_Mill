@@ -36,7 +36,7 @@
   <property name="latency" type="float" value="35000.0"/>
   <property name="machinename" type="string" value="OZO_Mill"/>
   <property name="manualtoolchange" type="bool" value="True"/>
-  <property name="md5sums" type="eval" value="[('/home/tangleball/linuxcnc/configs/OZO_Mill/README', '7a4f0e4dbc0475f2147a87817ea875d4'), ('/home/tangleball/linuxcnc/configs/OZO_Mill/OZO_Mill.ini', '5a2b0cbba6c0c693b2be8d585a084630'), ('/home/tangleball/linuxcnc/configs/OZO_Mill/OZO_Mill.hal', 'e0cd7527f8729e0a4af6f94d186d404e')]"/>
+  <property name="md5sums" type="eval" value="[('/home/tangleball/linuxcnc/configs/OZO_Mill/README', '2aff58f1f53c2c49946bf6d41130b6c7'), ('/home/tangleball/linuxcnc/configs/OZO_Mill/OZO_Mill.ini', 'a283639028ca9f0dfab833395edd4729'), ('/home/tangleball/linuxcnc/configs/OZO_Mill/OZO_Mill.hal', '31a29d668bb3145bccd88b3db71964f2')]"/>
   <property name="modbus" type="bool" value="False"/>
   <property name="number_pports" type="int" value="1"/>
   <property name="period" type="int" value="25000"/>
@@ -130,7 +130,7 @@
   <property name="zleadscrew" type="float" value="2.0"/>
   <property name="zmaxacc" type="float" value="29.0"/>
   <property name="zmaxlim" type="float" value="0.0"/>
-  <property name="zmaxvel" type="float" value="-0.1"/>
+  <property name="zmaxvel" type="float" value="0.15"/>
   <property name="zmicrostep" type="float" value="2.0"/>
   <property name="zminlim" type="float" value="-4.0"/>
   <property name="zpulleyden" type="float" value="1.0"/>
