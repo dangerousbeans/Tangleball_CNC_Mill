@@ -36,7 +36,7 @@
   <property name="latency" type="float" value="35000.0"/>
   <property name="machinename" type="string" value="OZO_Mill"/>
   <property name="manualtoolchange" type="bool" value="True"/>
-  <property name="md5sums" type="eval" value="[('/home/tangleball/linuxcnc/configs/OZO_Mill/README', 'e3c362d19bad6733642785565b0e3013'), ('/home/tangleball/linuxcnc/configs/OZO_Mill/OZO_Mill.ini', '2ef0081deb06fbd73d996dc6cf6de882'), ('/home/tangleball/linuxcnc/configs/OZO_Mill/OZO_Mill.hal', 'e23bf014077a56256e21bce8838a6945')]"/>
+  <property name="md5sums" type="eval" value="[('/home/tangleball/linuxcnc/configs/OZO_Mill/README', '0263410e90dbe9dbdcc1740e82129267'), ('/home/tangleball/linuxcnc/configs/OZO_Mill/OZO_Mill.ini', 'acbbb0660d58c443f57b7aa877e12c0b'), ('/home/tangleball/linuxcnc/configs/OZO_Mill/OZO_Mill.hal', '29a4d240ce3847d4d53f7c6368cdccb7')]"/>
   <property name="modbus" type="bool" value="False"/>
   <property name="number_pports" type="int" value="1"/>
   <property name="period" type="int" value="25000"/>
@@ -102,7 +102,7 @@
   <property name="xleadscrew" type="float" value="5.0"/>
   <property name="xmaxacc" type="float" value="30.0"/>
   <property name="xmaxlim" type="float" value="14.0"/>
-  <property name="xmaxvel" type="float" value="1.5"/>
+  <property name="xmaxvel" type="float" value="2.2"/>
   <property name="xmicrostep" type="float" value="2.0"/>
   <property name="xminlim" type="float" value="0.0"/>
   <property name="xpulleyden" type="float" value="1.0"/>
@@ -116,21 +116,21 @@
   <property name="yleadscrew" type="float" value="5.0"/>
   <property name="ymaxacc" type="float" value="30.0"/>
   <property name="ymaxlim" type="float" value="17.0"/>
-  <property name="ymaxvel" type="float" value="1.5"/>
+  <property name="ymaxvel" type="float" value="2.2"/>
   <property name="ymicrostep" type="float" value="2.0"/>
   <property name="yminlim" type="float" value="0.0"/>
   <property name="ypulleyden" type="float" value="1.0"/>
   <property name="ypulleynum" type="float" value="1.0"/>
   <property name="yscale" type="float" value="2000.0"/>
   <property name="ysteprev" type="float" value="200.0"/>
-  <property name="zhomepos" type="float" value="4.0"/>
-  <property name="zhomesw" type="float" value="4.0"/>
+  <property name="zhomepos" type="float" value="2.1"/>
+  <property name="zhomesw" type="float" value="2.1"/>
   <property name="zhomevel" type="float" value="-0.4"/>
   <property name="zlatchdir" type="int" value="0"/>
   <property name="zleadscrew" type="float" value="2.0"/>
   <property name="zmaxacc" type="float" value="29.0"/>
-  <property name="zmaxlim" type="float" value="4.0"/>
-  <property name="zmaxvel" type="float" value="0.4"/>
+  <property name="zmaxlim" type="float" value="2.1"/>
+  <property name="zmaxvel" type="float" value="0.9"/>
   <property name="zmicrostep" type="float" value="2.0"/>
   <property name="zminlim" type="float" value="0.0"/>
   <property name="zpulleyden" type="float" value="1.0"/>
